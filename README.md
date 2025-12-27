@@ -212,10 +212,6 @@ interface MockResponse<T> {
 }
 ```
 
-## Important Notes
-
-> **⚠️ MOCK API**: This SDK currently returns mock data for all operations. The `mock: true` field in responses indicates that the data is simulated. Real API integration will be available in a future release.
-
 ## Browser Support
 
 The SDK is compatible with:
@@ -250,9 +246,9 @@ MIT License - see [LICENSE](./LICENSE) for details.
 
 ## Links
 
-- Website: [https://monexa.finance](https://monexa.finance)
-- Documentation: [https://monexa.finance/docs](https://monexa.finance/docs)
-- Support: support@monexa.finance
+- Website: [https://monexa.finance](https://monexafinance.org)
+- Documentation: [https://monexa.finance/docs](https://monexafinance.org/docs)
+- Support: support@monexafinance.org
 
 ---
 
